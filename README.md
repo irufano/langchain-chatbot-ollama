@@ -1,5 +1,22 @@
 # Chatbot using langchain and ollama (open source llm like llama, gema etc)
 
+## Create venv 
+Using python 3.11.5
+
+```
+python -m venv yourenv
+```
+
+activate
+
+```sh
+# for mac
+source yourenv/bin/activate
+
+# for windows
+yourenv\Scripts\activate
+```
+
 ## Download Ollama and LLM on your Local
 https://ollama.com/
 
